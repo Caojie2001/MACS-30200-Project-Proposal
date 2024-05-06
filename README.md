@@ -10,7 +10,7 @@ scikit-learn >= 1.3.2
 scipy >= 1.12.0  
 statsmodels >= 0.14.1  
 ## How to Cite
-To cite this project, please use the following BibTeX entry: 
+To cite this project, please use the following BibTeX entry:  
 @misc{YourProjectName,  
   author = {Jie Cao},  
   title = {From Revolution to Representation: Evolution of Government Women Portrayals in China Since 1949},  
