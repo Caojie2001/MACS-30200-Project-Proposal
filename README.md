@@ -15,5 +15,5 @@ To cite this project, please use the following BibTeX entry:
   author = {Jie Cao},  
   title = {From Revolution to Representation: Evolution of Government Women Portrayals in China Since 1949},  
   year = {2024},  
-  howpublished = {\url{[https://github.com/YourGitHubUsername/YourRepositoryName](https://github.com/Caojie2001/MACS-30200-Project-Proposal.git)}},  
+  projecturl = {https://github.com/Caojie2001/MACS-30200-Project-Proposal.git},  
 }
